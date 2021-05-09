@@ -20,5 +20,3 @@ Link : <b>Coming soon</b>
 
 <b>Coming soon</b>
 
-
->>>>>>> c6a936b7b5e377fc19c98512584d725113a0f860
