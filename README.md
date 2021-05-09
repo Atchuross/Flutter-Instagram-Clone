@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# flutter_instaclone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 <h1 align="center">InstaClone</h1>
 <p align="center"><i>Create with flutter and firebase</i></p>
 <div align="center">
@@ -38,5 +20,3 @@ Link : <b>Coming soon</b>
 
 <b>Coming soon</b>
 
-
->>>>>>> c6a936b7b5e377fc19c98512584d725113a0f860
